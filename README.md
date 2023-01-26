@@ -5,7 +5,7 @@
 - Discuss why data types matter in Java.
 - Learn about the different data types.
 
-## Why does a variable have a type?
+## Why Does a Variable Have a Type?
 
 A variable has a type so that we can control what values can be assigned to it.
 In our example, we expect the `name` to be a word. This is important because we
@@ -33,7 +33,7 @@ languages is outside the scope of this course. Just know that Java is typed and
 will therefore warn you when you try to perform operations on variables of
 different types that are not compatible.
 
-## Different Data Types
+## Types of Data Types
 
 In the previous lesson, we saw that we defined the variable as such:
 
